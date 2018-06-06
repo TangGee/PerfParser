@@ -52,4 +52,4 @@ for line in logfile:
     outfile.write(line)
             
 logfile.close()
-logfile.close()
+outfile.close()
