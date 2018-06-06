@@ -1,0 +1,20 @@
+Starts to dump Bugreport
+Total PSS by process
+Total PSS by category
+BaseMiuiPhoneWindowManager: keyCode
+lowmemorykiller
+DUMPSYS CPUINFO
+POWERUP_REASON
+Blocked in handler on
+Blocked in monitor
+dvm_lock_sample
+Long monitor
+MIUI-BLOCK-MONITOR
+binder_sample
+Backpressure trigger
+The application may be
+starved for
+Dispatch took
+processing the last input event
+WtBlockMonitor
+am_activity_launch_time
